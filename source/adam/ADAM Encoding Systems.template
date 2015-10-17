@@ -1,0 +1,41 @@
+===Digital Alternative Representation of Musical Scores (DARMS)===
+
+Website: [[DARMS Digital Alternative Representation of Musical Scores (DARMS)&amp;mdash;Historical Documentation]]
+
+DARMS, the Digital Alternative Representation of Musical Scores, was the result of a pronounced effort to develop a straightforward, inexpensive way to encode musical scores.  It's chief protagonists were Stefan Bauer-Mengelberg (code) and Raymond Erickson (documentation and experimentation). Through its summer seminars it stimulated much important thought as to how computers could be used to produce more scores at less cost than ever before.  A number of analytical projects, conducted mainly at Yale, explored its uses in investigation music from the Ars Nova to the twentieth century.
+
+===Fastcode===
+
+Website: [http://wiki.ccarh.org/wiki/Fastcode Fastcode]
+
+Fastcode was developed at Princeton University in the mid-1970s by Tom Hall.  It was designed particularly with mensural notation in mind.  Hall's versatility in developing programs during the mainframe era to meet a wide range of special needs stands as a monument to ingenuity in an era of means we now view as limiting.
+
+===Intermediate Musical Language - Music Information Retrieval (IML-MIR)===
+
+Website: [http://wiki.ccarh.org/wiki/IML-MIR Intermediate Musical Language - Music Information Retrieval (IML-MIR)]
+
+Princeton's Intermediate Musical Language - Music Information Retrieval system, developed between the late 1960s and &lt;i>c&lt;/i>. 1975, was intended to facilitate the transcription and analysis such repertories as Renaissance polyphony and Lutheran choral music.  (The Bach scholar Arthur Mendel was involved in some of the earliest efforts to analyze Bach's choral harmonizations by computer.)  A number of later noted musicologists (and software experts) were extensively involved as graduate students at Princeton University with this work.
+
+===Mustran===
+
+Website: [[Mustran| Mustran]]
+
+Jerome Wenker's Mustran (Music Translator) system was created in conjunction with his doctoral dissertation in computer science (1978) at Indiana University.  Like other systems of its time its focus was on producing musical script from a typewriter-model keyboard using only low-order ASCII characters.  Initially experimentation was limited to monophonic music, but more sophisticated efforts evolved rapidly at Indiana University, where much other music-related experimentation thrived in the 1970s and 1980s.  The most succinct surviving documentation is found in a short undated [http://quod.lib.umich.edu/cgi/p/pod/dod-idx/current-applications-of-a-music-representation.pdf?c=icmc;idno=bbp2372.1978.041 overview] by Rosalee Nerheim.
+
+===SMUT===
+
+Website: [[SMUT|SMUT]]
+
+Don Byrd's doctoral thesis [http://homes.soic.indiana.edu/donbyrd/Papers/DonDissScanned.pdf Music Notation by Computer] (Indiana University, 1984) enjoys Biblical status as a compendium of early music transcription systems.  it provides great insight into the relations between different systems.  Byrd's own System for Music Transcription (SMUT) was a robust one in the 1980s and spawned the desktop notation program Nightingale a decade later.
+
+===Teletau===
+
+Website: [[Teletau|Teletau]]
+
+The Teletau system was conceived within a multifaceted research project in telematics at the Centro Nucleare Universitario di Calcolo Elettronico (CNUCE) in Pisa, Italy.  The center was founded in 1965 and operated under the auspices of the Italian Research Council (CNR in Italy).  Pietro Grossi, a cellist and scientist, started the musical informatics program in the same year.  The TAU-TAUMUS system was a [http://www.edueda.net/index.php?title=Reparto_di_informatica_musicale_CNR_di_Pisa_-_Divisione_musicologica_CNUCE_-_EN_-_ASC collection of hardware] that facilitated the storage, playback, and manipulation of musical scores.  The [http://esf.ccarh.org/ccarh-wiki/22_Teletau.pdf Teletau manual 1.0 (1986)] by Pietro Grossi has kindly been made available by [http://www.electrocd.com/en/bio/camilleri_le/ Lelio Camilleri], who joined the project as a student.  Camilleri has been professor of composition at the G. B. Martini Conservatory of Music in Bologna, where he heads a program in digital music, since 1999.
+
+===ZIPI===
+
+Website: [[ZIPI|ZIPI]]
+
+The ZIPI Music Parameter Description Language (MPDL), v. 1.0, developed by Zeta Music systems (until 2011 a supplier of electric violins, cellos, and bass guitars in Oakland, CA) and personnel of [http://cnmat.berkeley.edu/ CNMAT] (UC Berkeley) in the 1990s, was a proposed successor to MIDI, which proved to be a crippled tool in many electronic-music situations.  [http://www.keithmcmillen.com/ Keith McMillen], David Wessel, and [https://ccrma.stanford.edu/people/matthew-james-wright Matthew Wright] were its developers. It addressed such issues as brightness, articulation, and the inability of MIDI to treat series of notes as a group. MPDL was the first tier of an conjectured system in which other capabilities could be added. Like MIDI, ZIPI was a message-based system, as it was intended to work exclusively in interactive contexts.  Unlike MIDI (an 8-bit system), it was a 16-bit system.  Thus it could accommodate a much larger palette of virtual instruments and timbres.  It could also provide support for more finite semitones than MIDI's equal-tempered half step.  MIDI note numbers were embedded in a ZIPI byte. ZIPI also supported input from string (bowed or plucked) and wind instruments, so that those wishing to "record" their works were not limited to an electronic keyboard. Its network protocols would have enabled more than 200 devices (connected peer-to-peer) to collaborate.  An early version of its manual is available [http://esf.ccarh.org/ccarh-wiki/ZIPI.pdf ZIPI here].
