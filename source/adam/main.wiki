@@ -1,6 +1,6 @@
-UNDER DEVELOPMENT
+&lt;b>Archive of Digital Applications in Musicology&lt;/b>
 
-The aim of ADAM is to preserve information about projects in digital musicology that were ground-breaking in their time but lack a substantial online presence.  Projects end for a variety of reasons&amp;mdash;discontinuation of funding, insurmountable changes of technology, or the retirement of a director. These projects remain stand-outs for the careful musical thinking that underlies them and the innovative approaches they introduced.  
+The aim of ADAM is to preserve information about projects in digital musicology that were ground-breaking in their time but lack a substantial online presence.  Projects end for a variety of reasons: discontinuation of funding, insurmountable changes of technology, or the retirement of a director. These projects remain stand-outs for the careful musical thinking that underlies them and the innovative approaches they introduced.  
 For curated digital and hybrid editions, see [http://eve.ccarh.org EVE: Electronic and Virtual Editions].  Also see
 [http://drm.ccarh.org Digital Resources for Musicology]. 
 
