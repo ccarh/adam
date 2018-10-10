@@ -1,6 +1,6 @@
 
 
-.PHONY: source
+.PHONY: source images
 
 update: source
 
